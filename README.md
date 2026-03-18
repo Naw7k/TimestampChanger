@@ -2,6 +2,10 @@
 
 # <img src="src/icon_default.png" width="32"> TimestampChanger
 
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+
 </div>
 
 A lightweight Windows utility to edit file timestamps directly from the right-click context menu.
