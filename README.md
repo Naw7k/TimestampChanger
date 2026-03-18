@@ -8,8 +8,11 @@
 
 </div>
 
-A lightweight Windows utility to edit file timestamps directly from the right-click context menu.
+<br>
+<br>
 
+A lightweight Windows utility to edit file timestamps directly from the right-click context menu.
+<br>
 <div align="left">
   <img src="src/preview.png" width="400">
 </div>
