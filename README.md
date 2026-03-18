@@ -10,6 +10,11 @@
 
 A lightweight Windows utility to edit file timestamps directly from the right-click context menu.
 
+<div align="left">
+  <img src="src/preview.png" width="400">
+</div>
+
+
 ## Features
 - Edit Created, Last Modified, and Last Accessed timestamps
 - Multi-file support — select multiple files and change them all at once
