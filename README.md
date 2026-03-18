@@ -1,4 +1,8 @@
-# TimestampChanger
+<div align="center">
+
+# <img src="src/icon_default.png" width="32"> TimestampChanger
+
+</div>
 
 A lightweight Windows utility to edit file timestamps directly from the right-click context menu.
 
